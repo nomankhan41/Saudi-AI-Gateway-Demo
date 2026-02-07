@@ -17,7 +17,8 @@ Using OpenAI or Anthropic directly violates **Saudi PDPL Article 29** when sensi
 
 [![Watch the Demo]](https://www.loom.com/share/0e164a714032417e90e1f803068e3d28)
 
-<img width="1365" height="749" alt="image" src="https://github.com/user-attachments/assets/76afb32a-7c35-4e3c-8442-47a4734fe2cf" />
+<img width="1365" height="749" alt="image" src="https://github.com/user-attachments/assets/37cac029-6824-44c0-a51a-a5c93a2f86df" />
+
 
 
 ---
