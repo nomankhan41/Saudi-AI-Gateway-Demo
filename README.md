@@ -44,7 +44,7 @@ This repository includes the `verify_compliance.py` audit script. You can run th
 
 ## 💼 Enterprise Licensing
 This software is available for **Enterprise Licensing** and **Source Code Acquisition**.
-Perfect for Systems Integrators (Master Works, Mozn, 10Pearls) building government solutions.
+Designed for **Government-Authorized Systems Integrators** and **Banking Technology Partners** in the GCC region.
 
 **📩 Contact for Demo / PoC:**
 * **Lead Architect:** [Noman Asif Khan](https://www.linkedin.com/in/noman-asif-khan-250358295/)
